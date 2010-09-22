@@ -1,8 +1,5 @@
-pSentry is a small daemon to monotior and correct heirachel permission
+pSentry is a small daemon to monitor and correct hierarchical posix compliant and ACL permissions. Inotify is used for filesystem monitoring.
 structures.
-
-Works with normal unix permissions as well as ACLs.
-
 
 Note: 
     I never really have had time to "finish" this. I got it to a working point
